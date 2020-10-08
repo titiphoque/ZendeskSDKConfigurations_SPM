@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
               name: "SDKConfigurations",
-              url: "https://zendesk.jfrog.io/zendesk/libs-releases-local/ios/zendesk/5.2.4/SDKConfigurations/1.1.6/SDKConfigurations.zip",
-              checksum: "6497b75e8c519d72e159a7c8f95c2e0c2275880500cc9dd64224fde3e02a490f"
+              url: "https://github.com/titiphoque/ZendeskSDKConfigurations_SPM/raw/main/SDKConfigurations.zip",
+              checksum: "dbad6be9cafb72327e2a3912f28a88c5b5d65230546ab015d8cec8772949c348"
             ),
     ]
 )
